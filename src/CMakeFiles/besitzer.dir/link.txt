@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbesitzer.a CMakeFiles/besitzer.dir/besitzer.cpp.o
+/usr/bin/ranlib libbesitzer.a

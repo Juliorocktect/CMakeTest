@@ -1,0 +1,8 @@
+/home/juli/Documents/CMakeTest/CMakeFiles/say-hello.dir
+/home/juli/Documents/CMakeTest/CMakeFiles/test.dir
+/home/juli/Documents/CMakeTest/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/src/CMakeFiles/doppel.dir
+/home/juli/Documents/CMakeTest/src/CMakeFiles/human.dir
+/home/juli/Documents/CMakeTest/src/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/src/CMakeFiles/rebuild_cache.dir

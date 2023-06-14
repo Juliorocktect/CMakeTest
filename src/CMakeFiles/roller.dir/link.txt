@@ -1,0 +1,2 @@
+/usr/bin/ar qc libroller.a CMakeFiles/roller.dir/roller.cpp.o
+/usr/bin/ranlib libroller.a

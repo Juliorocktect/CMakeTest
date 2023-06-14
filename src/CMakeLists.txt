@@ -1,0 +1,10 @@
+add_library(
+    doppel
+    doppel.hpp
+    doppel.cpp
+)
+add_library(
+    human 
+    human.hpp
+    human.cpp
+)
