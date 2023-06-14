@@ -1,0 +1,16 @@
+/home/juli/Documents/CMakeTest/build/CMakeFiles/say-hello.dir
+/home/juli/Documents/CMakeTest/build/CMakeFiles/test.dir
+/home/juli/Documents/CMakeTest/build/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/build/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/build/src/CMakeFiles/doppel.dir
+/home/juli/Documents/CMakeTest/build/src/CMakeFiles/human.dir
+/home/juli/Documents/CMakeTest/build/src/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/build/src/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/build/src/server/CMakeFiles/server.dir
+/home/juli/Documents/CMakeTest/build/src/server/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/build/src/controller/CMakeFiles/controller.dir
+/home/juli/Documents/CMakeTest/build/src/controller/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/build/src/controller/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/build/header/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/build/header/CMakeFiles/rebuild_cache.dir

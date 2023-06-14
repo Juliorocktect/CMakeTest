@@ -8,3 +8,5 @@ add_library(
     human.hpp
     human.cpp
 )
+add_subdirectory(server)
+add_subdirectory(controller)

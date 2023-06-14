@@ -6,3 +6,11 @@
 /home/juli/Documents/CMakeTest/src/CMakeFiles/human.dir
 /home/juli/Documents/CMakeTest/src/CMakeFiles/edit_cache.dir
 /home/juli/Documents/CMakeTest/src/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/src/server/CMakeFiles/server.dir
+/home/juli/Documents/CMakeTest/src/server/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/src/server/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/src/controller/CMakeFiles/controller.dir
+/home/juli/Documents/CMakeTest/src/controller/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/src/controller/CMakeFiles/rebuild_cache.dir
+/home/juli/Documents/CMakeTest/header/CMakeFiles/edit_cache.dir
+/home/juli/Documents/CMakeTest/header/CMakeFiles/rebuild_cache.dir

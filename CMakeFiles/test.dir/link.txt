@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/test.dir/main.cpp.o -o test  libsay-hello.a src/libdoppel.a src/libhuman.a 
+/usr/bin/c++ CMakeFiles/test.dir/main.cpp.o -o test  libsay-hello.a src/libdoppel.a src/libhuman.a src/server/libserver.a src/controller/libcontroller.a 

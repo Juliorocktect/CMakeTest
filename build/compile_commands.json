@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/say-hello.dir/hello.cpp.o -c /home/juli/Documents/CMakeTest/hello.cpp",
+  "file": "/home/juli/Documents/CMakeTest/hello.cpp",
+  "output": "CMakeFiles/say-hello.dir/hello.cpp.o"
+},
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/test.dir/main.cpp.o -c /home/juli/Documents/CMakeTest/main.cpp",
+  "file": "/home/juli/Documents/CMakeTest/main.cpp",
+  "output": "CMakeFiles/test.dir/main.cpp.o"
+},
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o src/CMakeFiles/doppel.dir/doppel.cpp.o -c /home/juli/Documents/CMakeTest/src/doppel.cpp",
+  "file": "/home/juli/Documents/CMakeTest/src/doppel.cpp",
+  "output": "src/CMakeFiles/doppel.dir/doppel.cpp.o"
+},
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o src/CMakeFiles/human.dir/human.cpp.o -c /home/juli/Documents/CMakeTest/src/human.cpp",
+  "file": "/home/juli/Documents/CMakeTest/src/human.cpp",
+  "output": "src/CMakeFiles/human.dir/human.cpp.o"
+},
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o src/server/CMakeFiles/server.dir/server.cpp.o -c /home/juli/Documents/CMakeTest/src/server/server.cpp",
+  "file": "/home/juli/Documents/CMakeTest/src/server/server.cpp",
+  "output": "src/server/CMakeFiles/server.dir/server.cpp.o"
+},
+{
+  "directory": "/home/juli/Documents/CMakeTest/build",
+  "command": "/usr/bin/g++ -g -o src/controller/CMakeFiles/controller.dir/controller.cpp.o -c /home/juli/Documents/CMakeTest/src/controller/controller.cpp",
+  "file": "/home/juli/Documents/CMakeTest/src/controller/controller.cpp",
+  "output": "src/controller/CMakeFiles/controller.dir/controller.cpp.o"
+}
+]

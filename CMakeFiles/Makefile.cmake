@@ -11,7 +11,10 @@ set(CMAKE_MAKEFILE_DEPENDS
   "CMakeFiles/3.26.4/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.26.4/CMakeSystem.cmake"
   "CMakeLists.txt"
+  "header/CMakeLists.txt"
   "src/CMakeLists.txt"
+  "src/controller/CMakeLists.txt"
+  "src/server/CMakeLists.txt"
   "/usr/share/cmake/Modules/CMakeCInformation.cmake"
   "/usr/share/cmake/Modules/CMakeCXXInformation.cmake"
   "/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
@@ -41,6 +44,9 @@ set(CMAKE_MAKEFILE_OUTPUTS
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
   "src/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/server/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "src/controller/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "header/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
@@ -49,4 +55,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/test.dir/DependInfo.cmake"
   "src/CMakeFiles/doppel.dir/DependInfo.cmake"
   "src/CMakeFiles/human.dir/DependInfo.cmake"
+  "src/server/CMakeFiles/server.dir/DependInfo.cmake"
+  "src/controller/CMakeFiles/controller.dir/DependInfo.cmake"
   )

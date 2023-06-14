@@ -6,6 +6,7 @@ add_library(
     hello.cpp
 )
 add_subdirectory(src)
+add_subdirectory(header)
 add_executable(test main.cpp)
 
-target_link_libraries(test say-hello doppel human)
+target_link_libraries(test say-hello doppel human server controller)

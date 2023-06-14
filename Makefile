@@ -168,6 +168,32 @@ human/fast:
 	$(MAKE) $(MAKESILENT) -f src/CMakeFiles/human.dir/build.make src/CMakeFiles/human.dir/build
 .PHONY : human/fast
 
+#=============================================================================
+# Target rules for targets named server
+
+# Build rule for target.
+server: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 server
+.PHONY : server
+
+# fast build rule for target.
+server/fast:
+	$(MAKE) $(MAKESILENT) -f src/server/CMakeFiles/server.dir/build.make src/server/CMakeFiles/server.dir/build
+.PHONY : server/fast
+
+#=============================================================================
+# Target rules for targets named controller
+
+# Build rule for target.
+controller: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 controller
+.PHONY : controller
+
+# fast build rule for target.
+controller/fast:
+	$(MAKE) $(MAKESILENT) -f src/controller/CMakeFiles/controller.dir/build.make src/controller/CMakeFiles/controller.dir/build
+.PHONY : controller/fast
+
 hello.o: hello.cpp.o
 .PHONY : hello.o
 
@@ -224,9 +250,11 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... controller"
 	@echo "... doppel"
 	@echo "... human"
 	@echo "... say-hello"
+	@echo "... server"
 	@echo "... test"
 	@echo "... hello.o"
 	@echo "... hello.i"
